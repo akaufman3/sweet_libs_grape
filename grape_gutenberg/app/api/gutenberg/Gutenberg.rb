@@ -4,11 +4,8 @@ module Gutenberg
 		format :json
 		prefix :api
 
-	  resource :statuses do
-	    desc 'Return a public timeline.'
-	    get :hello do
-	    	'"hi"'
-	    end
-	  end
+		get 'hello' do
+    		{:version => version}
+		end
 	end
 end
