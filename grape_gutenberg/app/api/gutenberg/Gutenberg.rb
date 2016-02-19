@@ -15,7 +15,8 @@ module Gutenberg
 	      doc = Nokogiri::XML(path)
 	      variant = doc.xpath('/rdf:RDF/xml:base')
 	      book = {
-	      	title: doc.xpath('/rdf:RDF/pgterms:ebook/dcterms:title')[0].text
+	      	title: doc.xpath('/rdf:RDF/pgterms:ebook/dcterms:title')[0].text,
+	      	text: doc.xpath("/rdf:RDF/pgterms:ebook/dcterms:hasFormat/pgterms:file[contains(@rdf:about, '-h.htm')]")
 	      }
 
 	      redis.set(number, JSON.generate(book))
