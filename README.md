@@ -1,5 +1,7 @@
 # Ruby Grape
 
+[Grape API Slides](http://slides.com/ruthacosta/deck/fullscreen "Grape API")
+
 "An opinionated micro-framework for creating REST-like APIs in Ruby."
 
 "...designed to run on Rack or complement web application framework such as Rails and Sinatra by providing a simple DSL..."
