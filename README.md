@@ -1,6 +1,6 @@
 # Ruby Grape
 
-[Grape API Slides](http://slides.com/ruthacosta/deck/fullscreen "Grape API")
+[Grape API Slides](http://slides.com/ruthacosta/deck/speaker "Grape API")
 
 "An opinionated micro-framework for creating REST-like APIs in Ruby."
 
