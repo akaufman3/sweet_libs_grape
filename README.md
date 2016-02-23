@@ -94,7 +94,7 @@ put rdf in repo outside of rails file
 
 #Screenshots of the Slide Presentation
 
-![Slide_1](https://github.com/akaufman3/sweet_libs_grape/README.md/raw/master/src/common/images/Slide_1.png "Slide 1")
+![Slide_1](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_1.png "Slide 1")
 ![Slide_2](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_2.png)
 ![Slide_3](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_3.png)
 ![Slide_4](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_4.png)
