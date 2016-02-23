@@ -84,14 +84,32 @@ in /api make a /gutenberg folder
 create a new model (gutenberg.rb) in the /gutenberg folder
 
 
-
-
-
 NOT USING A RDF file? WANT TO SCRAPE A WEBPAGE?
 get page into string
 load page with nokogiri html
 
 put rdf in repo outside of rails file
 
+
+
+#Screenshots of the Slide Presentation
+
+![Slide_1](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_1.png)
+![Slide_2](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_2.png)
+![Slide_3](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_3.png)
+![Slide_4](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_4.png)
+![Slide_5](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_5.png)
+![Slide_6](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_6.png)
+![Slide_7](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_7.png)
+![Slide_8](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_8.png)
+![Slide_9](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_9.png)
+![Slide_10](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_10.png)
+![Slide_11](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_11.png)
+![Slide_12](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_12.png)
+![Slide_13](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_13.png)
+![Slide_14](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_14.png)
+![Slide_15](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_15.png)
+![Slide_16](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_16.png)
+![Slide_17](https://github.com/akaufman3/sweet_libs_grape/grape_gutenberg/app/assets/images/Slide_17.png)
 
 
