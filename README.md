@@ -1,5 +1,7 @@
 # Ruby Grape
 
+Built with [ Ruby | Ruby on Rails | Grape | Redis ]
+
 [Grape API Slides](http://slides.com/ruthacosta/deck/speaker "Grape API")
 
 "An opinionated micro-framework for creating REST-like APIs in Ruby."
